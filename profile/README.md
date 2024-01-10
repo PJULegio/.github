@@ -17,4 +17,4 @@ If for any reason you would like to contact us go ahead and do it!
 
 
 ##### TEAM 
-[![GS_GIT](https://avatars.githubusercontent.com/u/49124909?s=64&v=4)](https://github.com/grzeg2010) [![TN_GIT](https://avatars.githubusercontent.com/u/118614373?s=64&v=4)](https://github.com/Keios01) [![W_GIT](https://avatars.githubusercontent.com/u/124511877?v=4)](https://github.com/g-host2)
+[![GS_GIT](https://avatars.githubusercontent.com/u/49124909?s=64&v=4)](https://github.com/grzeg2010) [![TN_GIT](https://avatars.githubusercontent.com/u/118614373?s=64&v=4)](https://github.com/Keios01) [<img src='https://avatars.githubusercontent.com/u/124511877?v=4' width='64'>](https://github.com/g-host2)
